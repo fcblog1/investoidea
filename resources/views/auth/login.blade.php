@@ -11,7 +11,7 @@
 
       <div class="col-md-5  offset-1">
         <div class="card login-card" style="background-color: rgb(204, 241, 241);">
-          <div class="text-center mt-4"><h3 style="font-size: 1.6rem;">Login into Your Account hahfa</h3></div>
+          <div class="text-center mt-4"><h3 style="font-size: 1.6rem;">Login into Your Account</h3></div>
 
           <div class="card-body">
             <form method="POST" action="{{ route('login.custom') }}">
