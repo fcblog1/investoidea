@@ -1,0 +1,82 @@
+/* usernav */
+#usernav{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+
+}
+
+
+.detailsContain{
+  border:solid;
+  padding: 20px;
+}
+
+.project_display{
+  background: #c5d9f9;
+  box-shadow: 15px 15px 8px -7px rgba(0,0,0,0.39);
+  margin-bottom:15px;
+}
+.project_img{
+  height:193px;
+}
+
+.content{
+  padding: 15px;
+}
+
+
+/* login/ regiter logo */
+
+/* .logoimg{
+  width: 190px;
+} */
+
+/* /. login/register logo */
+
+
+/* login/register nav background color */
+.nav-back{
+background:#d6c6b3;
+}
+
+
+/*
+.login-panel{
+  background: #314755;  /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(to bottom, #26a0da, #314755);  /* Chrome 10-25, Safari 5.1-6 */ */
+  /* background: linear-gradient(to bottom, #26a0da, #314755); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ */
+  /* color:white; */
+  /* font-weight: 700; */
+} */
+
+/* .login-card
+{
+  -webkit-box-shadow: 5px 3px 15px -1px rgba(0,0,0,0.66);
+  -moz-box-shadow: 5px 3px 15px -1px rgba(0,0,0,0.66);
+  box-shadow: 5px 3px 15px -1px rgba(0,0,0,0.66);
+} */
+
+/*
+/. login/register nav background color
+*/
+
+.navbar-light .navbar-nav .nav-link{
+  color:yellow;
+
+  font-size: 20px;
+  margin-left: 8px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+  color:orange;
+}
+
+
+/* readmore pages css */
+
+.project-link{
+  font-size:20px;
+
+}
+.imgcollection{
+  margin-bottom: 50px;
+}
+/* /. readmore pages css */
